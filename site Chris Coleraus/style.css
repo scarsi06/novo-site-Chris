@@ -1,0 +1,30 @@
+body {
+  background-color: #fff8f9;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.navbar {
+  background-color: #800020;
+}
+
+.navbar-brand, .nav-link, footer {
+  color: white !important;
+}
+
+.btn-custom {
+  background-color: #d4af37;
+  color: white;
+}
+
+h1, h2 {
+  color: #800020;
+}
+
+section {
+  padding: 40px 0;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
